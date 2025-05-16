@@ -1,52 +1,68 @@
-🌬️ Air Route Guardian
-Your Personalized Air Quality Navigator & Guardian Angel.
+# 🌬️ Air Route Guardian  
+**Your Personalized Air Quality Navigator & Guardian Angel**
 
-Air Route Guardian takes air safety to the next level by combining AI-powered personalization, real-time AQI tracking, and smart routing to protect you from harmful air environments — every breath of the way.
+Air Route Guardian takes air safety to the next level — blending **AI-powered personalization**, **real-time AQI tracking**, and **smart routing** to guide you through the cleanest paths. Breathe easy, wherever life takes you.
 
-🌟 Features
-✅ Personalized Air Preference Detection
-Analyzes your sensitivity and comfort levels to air quality through quick onboarding.
+---
 
-✅ Real-Time AQI Monitoring
-Get live AQI readings for your current location or any area of interest.
+## 🚀 Features
 
-✅ Smart Route Finder
-Plan a route between two locations that avoids high-pollution zones.
+- ✅ **Personalized Air Preference Detection**  
+  Understands your air sensitivity through a quick onboarding process and tailors recommendations accordingly.
 
-✅ Instant Alerts in High AQI Zones
-Receive mobile or desktop alerts when you enter high-risk air quality regions.
+- ✅ **Real-Time AQI Monitoring**  
+  Live air quality data for your location or any place you search — stay informed on the go.
 
-✅ Dynamic Dashboard
-Visualize pollution levels, safe zones, and recommendations.
+- ✅ **Smart Route Finder**  
+  Navigate between locations while avoiding high-pollution zones using intelligent path optimization.
 
-✅ Mobile-Ready & Web-Based
-Works smoothly across platforms. Built with React, Node.js, and Map APIs.
+- ✅ **High AQI Zone Alerts**  
+  Get notified instantly when you enter a high-risk area with poor air quality — via mobile or desktop alerts.
 
-✅ Seamless UX
-Smooth animations, interactive maps, and real-time updates for a next-gen experience.
+- ✅ **Dynamic Dashboard**  
+  Interactive visuals to monitor AQI, view safe zones, and get AI-backed health insights in real-time.
 
-🛠️ Installation Guide
-You need Node.js and npm installed.
+- ✅ **Cross-Platform Ready**  
+  Fully responsive design. Works seamlessly on mobile and web. Built with **React**, **Node.js**, and **Map APIs**.
 
-# 1. Clone the repository
+- ✅ **Smooth & Modern UX**  
+  Engaging animations, clean visuals, real-time updates, and a delightful user experience.
+
+---
+
+## 🛠️ Installation
+
+### Prerequisites  
+Ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14 or above)  
+- npm (Node Package Manager)
+
+### Clone & Run Locally
+
+```bash
+# Clone the repository
 git clone https://github.com/IAK143/air-route-guardian.git
 cd air-route-guardian
 
-# 2. Install dependencies
+# Install dependencies
 npm install
 
-# 3. Run the development server
+# Run the app
 npm start
-Fork & clone
-git clone https://github.com/IAK143/air-route-guardian.git
 
-Make changes & commit
-git add . git commit -m "Added awesome feature"
+```
 
-👨‍💻 Made with ❤️ by @I12 Team
-A revolution in environmental health, A statement of tech-powered care.
+📱 Demo
+🔗 Live Preview on 19th May 2025
+🎥 Coming Soon: Demo walkthrough video
 
-Not just an app —
-It's a movement for a breathable tomorrow.
+🙌 Contributing
+We welcome contributions! Feel free to fork the project and submit a pull request. Open issues for feature suggestions or bug reports.
 
-🔗 i12.netlify.app ✨ Powered by love, code, and purpose.
+📄 License
+Common Internation Lisense – free to use, modify, and distribute with attribution.
+
+💬 Contact
+Made with 💙 by @IAK143
+For queries or collaborations: [aniply201@gmail.com] 
